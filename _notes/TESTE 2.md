@@ -1,3 +1,5 @@
---- title:  TESTE 2 ---
+---
+title:  TESTE 2
+---
 
 [TESTE 1]
