@@ -1,4 +1,6 @@
---- title: improve my thinking ---
+---
+title: improve my thinking
+---
 
 bla bla 
 
